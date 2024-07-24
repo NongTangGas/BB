@@ -1,10 +1,6 @@
 <h1 align="center">Chaiyadol Hirunrattanakorn</h1>
 <h3 align="center">A passionate fullstack developer from thailand</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h1 align="center">Skills</h1>
 <h3 align="left">Programing Languages</h3>
 <p align="left">
